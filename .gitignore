@@ -1,0 +1,12 @@
+.env
+.vscode
+node_modules
+.DS_Store
+yarn-debug.log*
+yarn-error.log*
+.idea
+dist
+storybook-static
+test-results
+playwright-report
+packages/strapi-icons/src
